@@ -1,0 +1,2 @@
+%load_ext sql
+%sql ibm_db_sa://my-username:my-password@my-hostname:my-port/my-db-name 
